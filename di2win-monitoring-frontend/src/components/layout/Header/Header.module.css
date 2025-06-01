@@ -1,0 +1,12 @@
+.header {
+  background-color: #1e1e1e;
+  padding: 16px;
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  height: 40px;
+}
+
+/* ← KCARRASCO */

@@ -1,0 +1,58 @@
+.calendar {
+  margin-top: 24px;
+  color: white;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.header h1 {
+  font-size: 48px;
+  font-weight: bold;
+}
+
+.header span {
+  text-transform: capitalize;
+  font-weight: 600;
+}
+
+.header p {
+  font-size: 14px;
+}
+
+.diasSemana, .dias {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 8px;
+  margin-top: 16px;
+}
+
+.diasSemana span {
+  color: #888;
+  text-align: center;
+  font-weight: bold;
+}
+
+.dias button {
+  background: none;
+  border: none;
+  color: white;
+  font-weight: 600;
+  padding: 8px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.dias button:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.selected {
+  background-color: #ff009a;
+  color: white;
+}
+
+
