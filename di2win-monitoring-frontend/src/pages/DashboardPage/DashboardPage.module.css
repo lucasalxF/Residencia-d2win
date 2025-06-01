@@ -1,0 +1,39 @@
+.dashboard {
+  background-color: #1e1e1e;
+  color: white;
+  padding: 32px;
+  display: grid;
+  gap: 24px;
+  grid-template-columns: 1fr 1fr;
+}
+
+.errorsCard, .chartCard {
+  background-color: #f0f0f0;
+  color: black;
+  padding: 24px;
+  border-radius: 16px;
+}
+
+table {
+  width: 100%;
+  margin-bottom: 16px;
+}
+
+th {
+  text-align: left;
+  color: #ff66bc;
+}
+
+td {
+  padding: 8px 0;
+}
+
+.calendarSection {
+  grid-column: span 2;
+  margin-top: 32px;
+}
+
+.calendarSection {
+  grid-column: span 2;
+  margin-top: 32px;
+}
