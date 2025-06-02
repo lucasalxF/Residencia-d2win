@@ -27,8 +27,13 @@ A Di2win atende diversos clientes utilizando APIs com modelos de IA. Falhas ou q
 ## 🖼️ Protótipo no Figma
 
 > Link para o design no Figma:  
-📌 [https://www.figma.com/file/SEU-LINK-AQUI]([https://www.figma.com/file/SEU-LINK-AQUI](https://www.figma.com/design/pnfdrYl38mUspXzKkilxbe/Di2win?m=auto&t=LuVzgEhLhW6S34k9-1))
+📌 [https://www.figma.com/]([https://www.figma.com/file/SEU-LINK-AQUI](https://www.figma.com/design/pnfdrYl38mUspXzKkilxbe/Di2win?m=auto&t=LuVzgEhLhW6S34k9-1))
 
+---
+## Documentação
+
+> Link para a documentação no Google Docs
+📌 [https://docs.google.com/](https://docs.google.com/document/d/1-g3fLyP4lZajDj6inDFln7cNRdcmuU1FSJoCIFmXRiM/edit?usp=sharing)
 ---
 
 ## ⚙️ Tecnologias Utilizadas
